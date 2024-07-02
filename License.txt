@@ -1,0 +1,14 @@
+## Usage
+
+Each directory contains Python scripts demonstrating how to use these libraries for text extraction from specific file formats.
+
+## Installation
+
+Clone the repository and install the required dependencies using `pip`.
+
+```bash
+git clone https://github.com/your/repository.git
+cd repository
+pip install -r requirements.txt
+
+This README provides a structured overview of the supported file formats, the libraries and approaches used for each format, how to use the repository, installation instructions, guidelines for contributing, and licensing information. You can modify it further to suit your specific project needs.
